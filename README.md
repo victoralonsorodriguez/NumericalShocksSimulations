@@ -62,7 +62,7 @@ The code is modularized for better organization and maintainability:
 
 ## **Usage**
 
-Navigate to the project directory (e.g., `Entregable/`) to run the scripts.
+Navigate to the project directory (e.g., `NumericalShocksSimulations/` or `NumericalShocksSimulations-main/`) to run the scripts.
 
 ### **1. Running the Main Simulation with Animation (`main_simulation.py`)**
 
